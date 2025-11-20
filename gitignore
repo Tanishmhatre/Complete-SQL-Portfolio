@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# SQL Server local files
+*.mdf
+*.ldf
+*.bak
+
+# Python / Jupyter (if added later)
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE or editor files
+*.vscode/
+*.idea/
